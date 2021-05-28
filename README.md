@@ -10,7 +10,7 @@ DIAMOND == v0.8.32.94
 Install:  
 Install required python libraries: pip install pandas numpy  matplotlib  
 
-git clone https://github.com/CicyLab/VFDetector.git  
+git clone https://github.com/CicyYeung/VFDetector.git  
 
 Usage:  
 python VFdetector.py PREDICT --type prot -i simple.fq.gz -o prefix -d DATABASE/ --threads 4  
